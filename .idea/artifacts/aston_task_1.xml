@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aston_task_1">
+    <output-path>$PROJECT_DIR$/out/artifacts/aston_task_1</output-path>
+    <root id="archive" name="aston_task_1.jar" />
+  </artifact>
+</component>
