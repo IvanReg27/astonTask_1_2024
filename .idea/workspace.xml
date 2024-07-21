@@ -60,7 +60,6 @@
 }</component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$PROJECT_DIR$/../../../../Program Files/Java/jdk-17" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8090/astonTask_1_2024_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="astonTask_1_2024:war exploded">
@@ -71,7 +70,6 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="79a97e68-a4b7-4afc-be10-b2f256c955dd" />
-        <option name="HTTP_PORT" value="8080" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -240,7 +238,7 @@
       <workItem from="1721393101127" duration="758000" />
       <workItem from="1721478082307" duration="5701000" />
       <workItem from="1721555917682" duration="2796000" />
-      <workItem from="1721567954442" duration="135000" />
+      <workItem from="1721567954442" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="task_1">
       <created>1721303859964</created>
